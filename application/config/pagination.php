@@ -1,6 +1,6 @@
 <?php 
 
-$config['base_url'] = "http://muhtasaq.dev/atha's-app/belajar-php/codeigniter-3/peoples/index";
+$config['base_url'] = "http://localhost/codeigniter3-app/peoples/index";
 $config['num_links'] = 3;
 $config['full_tag_open'] = '<nav><ul class="pagination justify-content-end">';
 $config['full_tag_close'] = '</ul></nav>';
